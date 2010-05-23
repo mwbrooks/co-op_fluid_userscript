@@ -7,25 +7,25 @@ Adds a badge count to your [Co-op](http://www.coopapp.com/) Fluid application.
 
 Requirements
 ------------
-1. [Fluid.app](http://www.fluidapp.com/): Download and install
-2. [Co-op account](http://www.coopapp.com/)
-3. This repository: `git clone xxx`
+  * [Fluid.app](http://www.fluidapp.com/): Download and install
+  * [Co-op account](http://www.coopapp.com/)
+  * Git this repo: `git clone git@github.com:mwbrooks/co-op_fluid_userscript.git`
 
 Install
 -------
-1. Open Fluid.app
-  * __URL__: `http://coopapp.com/groups/xxx`
-  * __Name__: Co-op
-  * __Icon__: Add the icon from this repository
-2. Open Co-op.app
-3. Allow login / logout pages
-  * Click _Co-op_ -> _Preferences_
-  * Click _Advanced_
-  * Change URL pattern from `*coopapp.com/groups/xxx*` to `*coopapp.com/*`
-4. Install this Fluid script
-  * Click the script icon from the menu
-  * Click _Open Userscripts Folder_
-  * Drag in `coop_fluid.user.js`
+  1. Open Fluid.app
+    * __URL__: `http://coopapp.com/groups/xxx`
+    * __Name__: Co-op
+    * __Icon__: Add the icon from this repository
+  2. Open Co-op.app
+  3. Allow login / logout pages
+    * Click _Co-op_ -> _Preferences_
+    * Click _Advanced_
+    * Change URL pattern from `*coopapp.com/groups/xxx*` to `*coopapp.com/*`
+  4. Install this Fluid script
+    * Click the script icon from the menu
+    * Click _Open Userscripts Folder_
+    * Drag in `coop_fluid.user.js`
 
 Alternative Icon
 ----------------
