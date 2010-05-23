@@ -23,9 +23,9 @@ Install
     * Click _Advanced_
     * Change URL pattern from `*coopapp.com/groups/xxx*` to `*coopapp.com/*`
   4. Install this Fluid script
-    * Click the script icon from the menu
-    * Click _Open Userscripts Folder_
-    * Drag in `coop_fluid.user.js`
+    * Press ^⌘O to open the script folder
+      * Drag in `coop_fluid.user.js`
+    * Press ^⌘R to reload all userscripts
 
 Alternative Icon
 ----------------
